@@ -1,0 +1,29 @@
+# Virtual Environment
+myenv/
+fast-api-env/
+venv/
+env/
+bin/
+lib/
+include/
+pip-selfcheck.json
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+mongo_connection.py
+```
